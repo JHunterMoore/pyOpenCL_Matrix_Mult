@@ -1,7 +1,7 @@
 import numpy as np
 import time
 
-MATRIX_SIZE = 200
+MATRIX_SIZE = 1000
 DIMENSIONS = np.array([MATRIX_SIZE,MATRIX_SIZE], dtype=np.int64)
 
 np.random.seed(9353)
